@@ -11,3 +11,7 @@ A tank game with static obstacles.  Refactored from tank-game-moving
 
 ### 
 Run with live server
+
+### 
+- Made with Typescript with PIXI.js
+- Bundled with Webpack
